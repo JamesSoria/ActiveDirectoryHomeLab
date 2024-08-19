@@ -53,7 +53,7 @@ Before proceeding with the setup, ensure that the following are installed and co
 ### Step 5: Run the PowerShell Script to Create Users
 1. Clone or download the PowerShell script provided in this repository.
 2. Open PowerShell with administrative privileges.
-3. Well be using Josh Madakor.
+3. Well be using Josh Madakor's powershell script.
 
 ### Step 6: Verify Setup
 1. Open **Active Directory Users and Computers** to verify the user accounts.
